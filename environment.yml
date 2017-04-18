@@ -1,0 +1,19 @@
+# run: conda env create -f environment.yml
+# run: conda env update -f environment.yml
+# run: conda env remove -n bgb
+name: bgb
+# in order of priority: lowest (top) to highest (bottom)
+channels:
+  - anaconda
+dependencies:
+  - click
+  - jupyter
+  - matplotlib
+  - pandas
+  - pip
+  - python=3
+  - numpy
+  - scipy
+  - seaborn
+#  - pip:
+#    - name-of-python-package
