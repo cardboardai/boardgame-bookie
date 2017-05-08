@@ -18,7 +18,7 @@ If you want a ship upgrade, make sure your ship is at a dock during winter so th
 
 ## Events
 
-<img align="middle" src="images/event_goods.jpg" alt="event_goods" width="200px"> <img align="middle" src="images/event_fog.jpg" alt="event_fog" width="200px">
+<img align="middle" src="images/event_goods.jpg" alt="event_goods" style="width: 200px;"/> <img align="middle" src="images/event_fog.jpg" alt="event_fog" style="width: 200px;"/>
 
 Knowing which event cards are in the deck and which have come out can also help you plan the back half of a year. If you that a card that makes selling goods more profitable hasn't come out yet, you can hold off selling goods for a round in the hopes that this event card comes out the next round.
 
@@ -26,11 +26,11 @@ Knowing which event cards are in the deck and which have come out can also help 
 
 Distance is a real factor in SeaFall. Getting from island to island takes time (and actions) and you don't want to be at sea in between islands any more than you have to be. In the early gmaes, this will happen more often as the sail values of your ships are low. An early sail upgrade not only gains you glory but can allow you to save actions later in the game by getting where you want to go in one action instead of two.
 
-<img src="images/upgrade_swift.png" alt="upgrade_swift"> <img src="images/upgrade_spirited.png" alt="upgrade_spirited">
+<img src="images/upgrade_swift.png" alt="upgrade_swift"/> <img src="images/upgrade_spirited.png" alt="upgrade_spirited"/>
 
 ## Goods
 
-<img src="images/structure_observatory.jpg" alt="observatory" style="float: right;">Most things you control in SeaFall are abstract - gold and advisors can be used anywhere without being assigned to a ship. (Earlier versions attached them to ships, which led to a painful game of record keeping.) Goods, however, have specific locations and must be tracked. If you use a good to discount an upgrade, structure, or treasure, the good must be in that region. Plan ahead. I've seen people's plans get waylaid because they have the wrong good in the wrong place at the wrong time. The different goods will also lead you down different paths by helping you in different ways:
+<img src="images/structure_observatory.jpg" alt="observatory" style="float: right;"/>Most things you control in SeaFall are abstract - gold and advisors can be used anywhere without being assigned to a ship. (Earlier versions attached them to ships, which led to a painful game of record keeping.) Goods, however, have specific locations and must be tracked. If you use a good to discount an upgrade, structure, or treasure, the good must be in that region. Plan ahead. I've seen people's plans get waylaid because they have the wrong good in the wrong place at the wrong time. The different goods will also lead you down different paths by helping you in different ways:
 
 * Iron helps with raiding and defense against raids
 * Spice helps with exploring
