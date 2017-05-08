@@ -18,7 +18,7 @@ If you want a ship upgrade, make sure your ship is at a dock during winter so th
 
 ## Events
 
-<img src="images/event_goods.jpg" alt="event_goods" align="center" style="width: 300px;"> <img src="images/event_fog.jpg" alt="event_fog" align="center" style="width: 300px;">
+<img align="center" src="images/event_goods.jpg" alt="event_goods" style="width: 200px;"> <img align="center" src="images/event_fog.jpg" alt="event_fog" style="width: 200px;">
 
 Knowing which event cards are in the deck and which have come out can also help you plan the back half of a year. If you that a card that makes selling goods more profitable hasn't come out yet, you can hold off selling goods for a round in the hopes that this event card comes out the next round.
 
