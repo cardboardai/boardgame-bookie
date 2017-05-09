@@ -1,5 +1,5 @@
-# SeaFall Designer Notes \#3: The Weather Turned
-
+# SeaFall Preview: The Weather Turned
+## Designer Notes \#3: Winter has ended
 *2016-05-31*
 
 <p align="center"><img src="images/logo.png" alt="logo"/></p>

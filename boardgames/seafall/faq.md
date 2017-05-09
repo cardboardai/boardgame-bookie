@@ -25,3 +25,8 @@
   *Q:* Do Gun Towers participate in ship raids? For example, would Gun Towers protect ships moored in the home harbor?
 
   *A:* Yes, Gun Towers add one to the garrison in the region where the structure is built to *any* raid. Ship raids differ from land raids in that the base value of garrison is derived from RAID or SAIL, but any garrison modifiers in the region still apply.
+
+1.
+  *Q:* If a ship sinks while raiding another ship, does the defending ship still take damage?
+
+  *A:* No. When a ship sinks during an endeavor, the endeavor fails and the attacking player's turn ends immediately. Damaging, or plundering, the defender's ship happens only after the attacker successfully completes the raid endeavor. Therefore, the defender's ship escapes unscathed.

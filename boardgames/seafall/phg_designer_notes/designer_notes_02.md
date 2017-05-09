@@ -1,5 +1,5 @@
-# SeaFall Designer Notes \#2: Your Province, Your Birthright
-
+# SeaFall Preview: Your Province, Your Birthright
+## Designer Notes \#2: Improving your leaders and province
 *2016-05-24*
 
 <p align="center"><img src="images/logo.png" alt="logo"/></p>

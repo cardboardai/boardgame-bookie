@@ -1,5 +1,5 @@
-# SeaFall Designer Notes \#1: Setting Sail
-
+# SeaFall Preview: Setting Sail
+## Designer Notes \#1: Rob Daviau invites you on an adventure
 *2016-05-16*
 
 <p align="center"><img src="images/logo.png" alt="logo"/></p>
