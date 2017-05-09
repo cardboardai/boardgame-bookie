@@ -2,7 +2,7 @@
 
 *2016-05-16*
 
-<img src="images/logo.png" alt="logo">
+<p align="center"><img src="images/logo.png" alt="logo"/></p>
 
 I wanted adventure.
 
@@ -12,19 +12,19 @@ I wanted adventure. I wanted the open sea, unknown islands, maps, charts, lost t
 
 As I told someone, "I want Indiana Jones in the Age of Sail."
 
-<img src="images/Starting-Cards-Treasure-1.png" alt="treasure" style="height: 300px;">
+<p align="center"><img src="images/Starting-Cards-Treasure-1.png" alt="treasure" style="height: 300px;"/></p>
 
 For the most part, that's what SeaFall is. It's part Euro game, part Ameritrash at its finest. It has a twisting emergent story, legacy-style play, and a lot of twists and turns as players explore the seas to discover how they can bring glory to their province.
 
-<img src="images/Starting-Cards-Milestones-1.png" alt="milestone" style="width: 300px;">
+<p align="center"><img src="images/Starting-Cards-Milestones-1.png" alt="milestone" style="width: 300px;"/></p>
 
 SeaFall is a 3-5 player legacy game. It is competitive. Not as cutthroat as Risk, but it has its moments of treachery. Each player is a ruler of a province and the goal for each game is to attain glory. Reach the target glory before any other player and you win the game. Players play the same province for the entire length of the campaign. The fate of your province - and its impact on the world - is yours and yours alone. Glory is tracked from game to game and the player who has the most glory when the end of the world is discovered becomes the Emperor (or Empress) who reunites the provinces at long last.
 
-<img src="images/seafall_title_1.jpg" alt="title" style="height: 300px;">
+<p align="center"><img src="images/seafall_title_1.jpg" alt="title" style="height: 300px;"/></p>
 
 Very early on, I established the main actions you could do on your turn - raid/fight, explore, trade, or build. These stayed constant through its design and development. With those goals I set off on a three year journey of design, redesign, testing, and more testing. The game changed a lot - a lot lot lot - in those 3.5 years. At first, the game was all about ships. Each player had two to four ships plying the seas. But some early feedback showed that players wanted more than flotilla. So I added some lands to rule... and protect. On these provinces, you could have buildings, treasure rooms, fields, and other little aspects to your province that made it unique. You had a home and your ships were setting sail from there.
 
-<img src="images/setup.png" alt="setup">
+<p align="center"><img src="images/setup.png" alt="setup" align="middle"/></p>
 
 Every week for the next few months, I will have a design note about an aspect of the game, explaining how it works, why it's there, and how I hope you have fun with it. Being a legacy game, I can't get into everything - there are unknowns best left for you to discover yourself. My hope with these articles is that you can learn enough of the game so that reading the rulebook is short and simple and you can start playing quickly.
 
@@ -45,7 +45,7 @@ Adventure awaits. The seas await. Destiny awaits.
 
 Glory awaits.
 
-<img src="images/seafall_advisor_back.jpg" alt="advisor" style="height: 300px;">
+<p align="center"><img src="images/seafall_advisor_back.jpg" alt="advisor" style="height: 300px;"/></p>
 
 *Written by Rob Daviau*  
 *Rob Daviau is the designer of SeaFall*
