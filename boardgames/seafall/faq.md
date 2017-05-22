@@ -26,7 +26,12 @@
 
   *A:* Yes, Gun Towers add one to the garrison in the region where the structure is built to *any* raid. Ship raids differ from land raids in that the base value of garrison is derived from RAID or SAIL, but any garrison modifiers in the region still apply.
 
-1.
+1.  
   *Q:* If a ship sinks while raiding another ship, does the defending ship still take damage?
 
   *A:* No. When a ship sinks during an endeavor, the endeavor fails and the attacking player's turn ends immediately. Damaging, or plundering, the defender's ship happens only after the attacker successfully completes the raid endeavor. Therefore, the defender's ship escapes unscathed.
+
+1.  
+  *Q:* How are the starting game bonuses for titles calculated?
+
+  *A:* Essentially, perform the division and then perform the "ceiling" operation, i.e. round up to the nearest integer. For example, if a player A is 1 glory behind the leading player B, then player A calculates the bonus threshold 1/5, or 0.2, and rounds up to 1. If player A was 6 glory behind their bonus would be 6/5, or 1.2, and rounds up to 2.
