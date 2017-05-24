@@ -35,3 +35,8 @@
   *Q:* How are the starting game bonuses for titles calculated?
 
   *A:* Essentially, perform the division and then perform the "ceiling" operation, i.e. round up to the nearest integer. For example, if a player A is 1 glory behind the leading player B, then player A calculates the bonus threshold 1/5, or 0.2, and rounds up to 1. If player A was 6 glory behind their bonus would be 6/5, or 1.2, and rounds up to 2.
+
+1.  
+  *Q:* Do curse cards stay with a ship after it sinks?
+
+  *A:* No. When a ship sinks everything attached to that ship is lost, including curses. Everything is lost: everything in the hold such as goods and relics, ship upgrades via the upgrade action, and, to resolve the sinking of the ship, damage cards, which include curses. When a ship is rebuilt it does not inherit past modifications beyond game end upgrades, which can be thought of as a blueprint or advances in engineering within the province.
