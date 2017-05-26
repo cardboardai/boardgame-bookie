@@ -45,3 +45,8 @@
   *Q:* Is there a maximum size to a dice pool?
 
   *A:* No. Despite there only being 15 dice provided by the game a dice pool can exceed this number. Therefore, record the results of the first 15 dice and re-roll the number necessary to reach the size of the dice pool. Often large dice pools result from explore endeavors after playing an advisor in combination with research cards among other modifiers.
+
+1.  
+  *Q:* Can research cards be stolen during a raid on a province?
+
+  *A:* Yes. Research cards are stored face up in the treasure room of a province. Research cards can be stolen the same way as a treasure card after a successful raid of the treasure room.
