@@ -20,13 +20,13 @@ Advisors let you do everything better. While you can have moderate success witho
 
 There are 20 advisors at the start of SeaFall, five from each guild. Their prices range from 1 to 4 gold (or 1 reputation). Here they are:
 
-<p align="center"><img src="images/sfad_advancedscout.jpg" alt="advancedscout" style="height: 300px;"/></p><p align="center"><img src="images/sfad_alchemist.jpg" alt="alchemist" style="height: 300px;"/></p><p align="center"><img src="images/sfad_brute.jpg" alt="brute" style="height: 300px;"/></p>
-<p align="center"><img src="images/sfad_captain.jpg" alt="captain" style="height: 300px;"/></p><p align="center"><img src="images/sfad_carpenter.jpg" alt="carpenter" style="height: 300px;"/></p><p align="center"><img src="images/sfad_convict.jpg" alt="convict" style="height: 300px;"/></p>
-<p align="center"><img src="images/sfad_dockmaster.jpg" alt="dockmaster" style="height: 300px;"/></p><p align="center"><img src="images/sfad_foreman.jpg" alt="foreman" style="height: 300px;"/></p><p align="center"><img src="images/sfad_localguide.jpg" alt="localguide" style="height: 300px;"/></p>
-<p align="center"><img src="images/sfad_madman.jpg" alt="madman" style="height: 300px;"/></p><p align="center"><img src="images/sfad_mastertrader.jpg" alt="mastertrader" style="height: 300px;"/></p><p align="center"><img src="images/sfad_powdermonkey.jpg" alt="powdermonkey" style="height: 300px;"/></p>
-<p align="center"><img src="images/sfad_renownedbuilder.jpg" alt="renownedbuilder" style="height: 300px;"/></p><p align="center"><img src="images/sfad_renownedexplorer.jpg" alt="renownedexplorer" style="height: 300px;"/></p><p align="center"><img src="images/sfad_renownedmerchant.jpg" alt="renownedmerchant" style="height: 300px;"/></p>
-<p align="center"><img src="images/sfad_renownedsoldier.jpg" alt="renownedsoldier" style="height: 300px;"/></p><p align="center"><img src="images/sfad_savage.jpg" alt="savage" style="height: 300px;"/></p><p align="center"><img src="images/sfad_smuggler.jpg" alt="asmuggler" style="height: 300px;"/></p>
-<p align="center"><img src="images/sfad_windmaster.jpg" alt="windmaster" style="height: 300px;"/></p><p align="center"><img src="images/sfad_woodsman.jpg" alt="woodsman" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_advancedscout.jpg" alt="advancedscout" style="height: 300px;"/> <img src="images/sfad_alchemist.jpg" alt="alchemist" style="height: 300px;"/> <img src="images/sfad_brute.jpg" alt="brute" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_captain.jpg" alt="captain" style="height: 300px;"/> <img src="images/sfad_carpenter.jpg" alt="carpenter" style="height: 300px;"/> <img src="images/sfad_convict.jpg" alt="convict" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_dockmaster.jpg" alt="dockmaster" style="height: 300px;"/> <img src="images/sfad_foreman.jpg" alt="foreman" style="height: 300px;"/> <img src="images/sfad_localguide.jpg" alt="localguide" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_madman.jpg" alt="madman" style="height: 300px;"/> <img src="images/sfad_mastertrader.jpg" alt="mastertrader" style="height: 300px;"/> <img src="images/sfad_powdermonkey.jpg" alt="powdermonkey" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_renownedbuilder.jpg" alt="renownedbuilder" style="height: 300px;"/> <img src="images/sfad_renownedexplorer.jpg" alt="renownedexplorer" style="height: 300px;"/> <img src="images/sfad_renownedmerchant.jpg" alt="renownedmerchant" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_renownedsoldier.jpg" alt="renownedsoldier" style="height: 300px;"/> <img src="images/sfad_savage.jpg" alt="savage" style="height: 300px;"/> <img src="images/sfad_smuggler.jpg" alt="asmuggler" style="height: 300px;"/></p>
+<p align="center"><img src="images/sfad_windmaster.jpg" alt="windmaster" style="height: 300px;"/> <img src="images/sfad_woodsman.jpg" alt="woodsman" style="height: 300px;"/></p>
 
 ## Using Them Well
 
