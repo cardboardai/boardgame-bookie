@@ -45,3 +45,6 @@ Research cards, as noted, carry over from game to game. That doesn't mean they c
 ## Explorer Path to Victory
 
 You get one glory for an endeavor, so a successful exploration will always be moving you toward your final goal. Almost always you will gain something - gold, goods, upgrades, etc. - by exploring, so you don't have to spend extra actions and gold to obtain these items. The downside is that you never know exactly what you'll find when you explore so you need to be flexible if you choose this path. A sudden discovery of iron might lead to upgrading the raid value of your ships for a quick raid. Discovering wood might make you want to build a structure or treasure. Exploration is the search of the unknown and the unknown can surprise you.
+
+*Written by Rob Daviau*  
+*Rob Daviau is the designer of SeaFall*

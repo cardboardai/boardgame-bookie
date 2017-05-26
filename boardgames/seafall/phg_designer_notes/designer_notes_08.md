@@ -40,7 +40,7 @@ Eventually, I (along with my developer JR Honeycutt) settled on making province 
 
 When you raid an island, your enmity goes on the raided site to show that it can't be raided again this year. It also makes it harder to raid from that island as each enmity increases the garrison of the island when against you by one (i.e., removes a die from your raid pool). Goods on that island also cost one more gold to buy for each enmity a province has with it. Come winter, the enmity moves off the site but stays on the island. The site may be available again but the penalty for raiding stays.
 
-<p align="center"><img src="images/war-advisor-1.jpg.jpg" alt="advisor1" style="height: 300px;"/></p>
+<p align="center"><img src="images/war-advisor-1.jpg" alt="advisor1" style="height: 300px;"/></p>
 
 With provinces, the immediate effect during the year is the same - the site can't be raided and the garrison increases. Come winter, there's something different with a province. The enmity moves to the At War With section of the province board. This is the opportunity for the aggrieved party to get revenge before the end of the game.
 
@@ -59,3 +59,6 @@ If you raid my treasure room and leave five enmity, there's a chance that all fi
 Raiding other players is not essential to the game. It is there thematically and also as a way for a player to snatch victory from another player. As seen above, this will have long-term fall out but there is something exhilarating about stealing a valuable treasure from another province to secure a sudden win.
 
 The other player may not feel the same way.
+
+*Written by Rob Daviau*  
+*Rob Daviau is the designer of SeaFall*
