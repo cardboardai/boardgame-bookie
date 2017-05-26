@@ -39,4 +39,9 @@
 1.  
   *Q:* Do curse cards stay with a ship after it sinks?
 
-  *A:* No. When a ship sinks everything attached to that ship is lost, including curses. Everything is lost: everything in the hold such as goods and relics, ship upgrades via the upgrade action, and, to resolve the sinking of the ship, damage cards, which include curses. When a ship is rebuilt it does not inherit past modifications beyond game end upgrades, which can be thought of as a blueprint or advances in engineering within the province.
+  *A:* No. When a ship sinks everything attached to that ship is lost, including curses. Everything is lost: everything in the hold such as goods and relics, ship upgrades, and damage cards, which include curses. When a ship is rebuilt it does not inherit anything from the previous iteration of the ship, except it retains its game end upgrades; game end upgrades can be thought of as a blueprint or advances in engineering within the province.
+
+1.  
+  *Q:* Is there a maximum size to a dice pool?
+
+  *A:* No. Despite there only being 15 dice provided by the game a dice pool can exceed this number. Therefore, record the results of the first 15 dice and re-roll the number necessary to reach the size of the dice pool. Often large dice pools result from explore endeavors after playing an advisor in combination with research cards among other modifiers.

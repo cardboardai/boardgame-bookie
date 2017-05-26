@@ -1,5 +1,5 @@
 # SeaFall Preview: In Search of the Unknown
-## Designer Notes \#6: Exploring and the Captain's Booke
+## Designer Notes \#7: Exploring and the Captain's Booke
 *2016-06-27*
 
 <p align="center"><img src="images/logo.png" alt="logo"/></p>
