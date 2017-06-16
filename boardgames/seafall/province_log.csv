@@ -1,6 +1,7 @@
-game_number,leader_name,influence,fortune,ship_A_name,appellation
-1,Ruby Soho,3,2,,
-2,Ruby Soho,3,2,,
-3,Ruby Soho,3,2,,
-4,Ruby Soho,3,2,,
-5,Ruby Soho,4,2,,Prosperous
+game_number,leader_name,influence,fortune,ship_A_name,appellation,field_A,field_B
+1,Ruby Soho,3,2,,,4,4
+2,Ruby Soho,3,2,,,4,4
+3,Ruby Soho,3,2,,,4,4
+4,Ruby Soho,3,2,,,4,4
+5,Ruby Soho,4,2,,Prosperous,4,4
+6,Ruby Soho,4,2,,Prosperous,6,4
