@@ -15,5 +15,9 @@ dependencies:
   - numpy
   - scipy
   - seaborn
-#  - pip:
-#    - name-of-python-package
+  - pip:
+    - dash
+    - dash-renderer
+    - dash-html-components
+    - dash-core-components
+    - plotly
