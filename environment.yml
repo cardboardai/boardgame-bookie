@@ -15,6 +15,7 @@ dependencies:
   - numpy
   - scipy
   - seaborn
+  - xlrd
   - pip:
     - dash
     - dash-renderer

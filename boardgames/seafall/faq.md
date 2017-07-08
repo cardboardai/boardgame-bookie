@@ -2,7 +2,7 @@
 
 An enjoyable SeaFall experience requires a clear understanding of the rules. There is nuance to many of the SeaFall rules and this FAQ is meant to either give further definition to existing rules or explain uncommon situations. Since SeaFall is a legacy game this FAQ has been organized in a manner to prevent unwanted *SPOILERS*. Each box to be opened within SeaFall has its own FAQ section. Some questions are relevant to multiple boxes, so there is redundant information within the FAQ by design. Therefore, check the Prologue section first, and then the FAQ section relevant to a given box to get the most out of the FAQ.
 
-# Prologue/Game 1
+# Prologue/Game 1/Stage I
 
 1.  
   *Q:*  How is the endeavor pool determined for a raid on a province? Do enmity stickers from the attacker and defender both figure into the final dice number?
@@ -30,6 +30,11 @@ An enjoyable SeaFall experience requires a clear understanding of the rules. The
   *Q:* If a roll for an endeavor results in all dice being blank, can fortune be used to avoid failure? The wording in the rulebook suggests that rolling all blanks might lead to immediate failure.
 
   *A:* Yes, fortune can be applied immediately before evaluating the roll. Therefore, disaster can be averted by applying fortune to an all blank roll.
+
+1.
+  *Q:* Where do cards go after they are dismissed?
+
+  *A:* After a card is dismissed, it is returned to the bottom of its respective deck. This is particularly important for the advisor deck when using the Guild Hall structure. The advisor deck should never become depleted, because the advisors dismissed from the forum are then immediately placed at the bottom of the deck.
 
 # Attacking Ships
 
