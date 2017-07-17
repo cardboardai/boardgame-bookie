@@ -7,7 +7,7 @@ I started SeaFall as an explorer. I began dabbling in the pirate trade during th
 To ensure securing a milestone in the last two games I've had to attack Joe and Dave at their home ports. I've been in 2nd place for several games, so permanent enmity has accrued in the provinces of the players below me. I've also been aggressive acquiring advisors, so I haven't been able to clear enmity off the islands I've raided with leftover reputation tokens. Now after 6 games, I look at the board and glaring back are the unfriendly stickers my past aggressions have littered upon the sea.
 
 | | Dave | Joe | Kyle | Mike | Scott | islands | Total |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Dave** | 0 | 0 | 0 | 0 | 1 | 2 | **3** |
 | **Joe** | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | **Kyle** | 3 | 4 | 0 | 1 | 2 | 3 | **13** |
