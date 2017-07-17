@@ -30,9 +30,9 @@ I was so eager to start this round, but the game played out like a Shakespearean
 
 1. Joe was looking for revenge.
 2. Joe acquired Randy the Savage, +7 to raid, who was drawn just prior to Joe's turn, which is terrible luck on its own (and funny this happened last game, too, with Dave and The Donald).
-3. Joe's boats hadn't yet gone out to the deep ocean to raid tombs. Had a high attack advisor shown up after turn 2, Joe's ships would have been too far away to reach me.
+3. Joe's boats hadn't yet gone out to the deep ocean to explore tombs. Had a high attack advisor shown up after turn 2, Joe's ships would have been too far away to reach me.
 
-The attack on my boat might have been the most devastating of all PvP raids if they were to be enumerated. I lost all of my goods. I lost a turn repairing my ship. I had no money after having spent it all on goods. This is yet another hurdle to founding a colony. There is a lot of resources, time and coin, floating on the ocean for several turns before a colony can be founded.
+The attack on my boat might have been the most devastating of all PvP raids if they were to be enumerated. I lost all of my goods. I lost a turn repairing my ship. I had no money after having spent it all on goods. This is yet another hurdle to founding a colony. There are a lot of resources, time and coin, floating on the ocean for several turns before a colony can be founded.
 
 To make matters worse, the game ended rapidly at 7 turns. Just as I had begun to recover the game stopped short. I was one turn away from founding a colony! Ug. The loss was terrible and complete. I only managed 3 glory and dropped from 2nd place overall to last place!
 
