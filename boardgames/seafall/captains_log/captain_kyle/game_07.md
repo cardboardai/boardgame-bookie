@@ -36,3 +36,13 @@ Plan A
 
 
 ## Play-by-play
+
+The worst case scenario played out where Joe attacked me on turn 2, sinking my boat along with all of its goods. It was a perfect storm of sorts:
+
+1. Joe was looking for revenge
+2. Randy the Savage +7 to raid was drawn just before Joe's turn (this happened last game, too, with Dave and The Donald)
+3. Joe's boats hadn't yet gone out to the deep ocean to raid tombs.
+
+The attack on my boat might have been to most devastating of all PvP raids. I lost all of my goods. I lost a turn repairing my ship. I had no money after having spent it all on goods.
+
+To make matters worse, the game ended rapidly at 7 turns. Just as I had begun to recover the game stopped short. I was one turn away from founding a colony! Ug. The loss was terrible and complete. I only managed 3 glory and dropped from 2nd place overall to last place! Wow!
