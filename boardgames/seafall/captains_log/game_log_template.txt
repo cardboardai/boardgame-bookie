@@ -1,1 +1,15 @@
-turn_number	ship_A_end_location	ship_B_end_location	guild_action_1	guild_action_2	guild_action_3	gold_end	enmity_end	refreshed_advisors	ship_A_end_goods	ship_B_end_goods	active_advisor	exhausted_advisors	ship_A_upgrades	ship_B_upgrades	structures	glory	warehouse_goods	noteswinter	home	home	none	none	none	18	6	The Renowned Merchant	none	none	none	none	none	none	none	0	none	none1	snake in my boots	prussia	sail	buy 4 goods	none	5	6	buy+2? raid?	W	"L,S,W"	The Renowned Merchant	The Renowned Merchant	none	none	none	0	none	none2	windy	home	sail	upgrade 1 ship	none	3	6	buy+2? raid?	W	"L,S"	none	The Renowned Merchant	none	hold+1	none	1	none	none3	candyland	windy	sail	raid 1 site 8-mine	none	11	5	buy+2? raid?	W	"L,S"	none	The Renowned Merchant	none	hold+1	none	2	none	none4	windy	windy	sail	buy 3 goods	none	2	5	raid?	"L,S"	"L,I,S,W"	buy+2?	"The Renowned Merchant,buy+2?"	none	hold+1	none	2	none	none5	snake in my boots	snake in my boots	found buy +2 colony	sail	none	2	4	raid?	none	none	none	"The Renowned Merchant,buy+2?"	none	hold+1	none	6	none	none6	snake in my boots	snake in my boots	raid 1 site for wood	collect taxes	none	5	3	build?	none	W	raid?	"The Renowned Merchant,buy+2?,raid?"	none	hold+1	none	7	none	nonewinter	snake in my boots	snake in my boots	none	none	none	19	3	"The Renowned Merchant,buy+2?,raid?,build?"	none	W	none	"The Renowned Merchant,buy+2?,raid?"	none	hold+1	none	7	I-windy	none7	windy	windy	sail	buy 4 goods	none	7	3	"buy+2?,raid?,build?"	"L,I,S,W"	"L,S"	The Renowned Merchant	The Renowned Merchant	none	hold+1	none	7	none	none8	candyland	candyland	sail	found tax +4 colony	none	7	2	"buy+2?,raid?,build?"	none	none	none	The Renowned Merchant	none	hold+1	none	11	none	none9	candyland	candyland	raid 1 site 10-mine	collect taxes	none	20	0	"buy+2?,build?"	none	none	raid?	"The Renowned Merchant,raid?"	none	hold+1	none	12	none	none10	"(3,3,6)"	windy	sail	buy 2 goods	none	14	0	"buy+2?,build?"	none	"I,S"	none	"The Renowned Merchant,raid?"	none	hold+1	none	12	none	none11	tahiti	windy	sail	buy 4 goods	none	0	0	build?	"L,W"	"I,L,S,S"	buy+2?	"The Renowned Merchant,raid?,buy+2?"	none	hold+1	none	12	none	none12	tahiti	tahiti	sail	found sail +3 colony	none	0	0		none	none	none	"The Renowned Merchant,raid?,buy+2?"	none	hold+1	none	16	none	none
+turn_number	ship_A_end_location	ship_B_end_location	guild_action_1	guild_action_2	guild_action_3	gold_end	enmity_end	glory	ship_A_end_goods	ship_B_end_goods	warehouse_goods	ship_A_upgrades	ship_B_upgrades	structures	refreshed_advisors	active_advisor	exhausted_advisors	notes
+winter																		
+1																		
+2																		
+3																		
+4																		
+5																		
+6																		
+winter																		
+7																		
+8																		
+9																		
+10																		
+11																		
+12																		
