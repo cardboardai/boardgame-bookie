@@ -6,4 +6,6 @@ game_number,ship_A_sail,ship_B_sail,ship_A_raid,ship_B_raid,ship_A_hold,ship_B_h
 5,2,5,5,2,2,2
 6,3,5,5,2,2,2
 7,3,5,5,2,2,3
-7,3,5,5,2,2,4
+8,3,5,5,2,2,4
+9,4,5,5,2,2,4
+10,5,5,5,2,2,4
