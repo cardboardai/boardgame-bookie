@@ -1,7 +1,7 @@
 # Game 11
 ## Playbook
 
-My plan for this game is fairly straightforward.
+The keys to my game:
 
 1. Raid the tomb again. I've got Randy from last game to do it.
 
@@ -12,22 +12,15 @@ My plan for this game is fairly straightforward.
 1. Try to make my strategy modular (2 or 3 turns each module) and therefore more flexible.
 
 ### Key Advisors
+* The Bosun: At the end of your turn, before exhausting the Bosun, refresh any advisor in your council room.
 * The Historian: When you research, keep 1 extra card.
 * The Treasure Hunter: You may keep all the cards you draw when you research.
-* The Master Thief
-* The Bosun: At the end of your turn, before exhausting the Bosun, refresh any advisor in your council room.
-* The Cannoneer
-* The Patriot
-* The Pirate
-* The Clerk
-* The Contractor
-* The Blackmailer
-* The Politician
 
-There could be a potentially awesome combo with research cards by using The Bosun along with The Historian or The Treasure Hunter.
+There is an awesome combo to collect research cards by using The Bosun along with The Historian or The Treasure Hunter.
 
-### SeaFall opening
-#### Winter
+### SeaFall opening (Phase I)
+
+#### First Winter
 * Starting gold is 12g (home province) + 3g (rubble) + 9g (title bonus)
 * Activate Taxachusetts -6g
 * Collect wood (taxa) and 3g (rubble)
@@ -35,16 +28,41 @@ There could be a potentially awesome combo with research cards by using The Bosu
 * **21 gold, 2 glory**
 
 #### Turn 1
+
+* **Advisor Watchlist** (48% chance of appearing on the winter flop)
+   1. The Blackmailer (Pay the gold price)
+   1. The Bosun (Pay the gold price)
+   1. The Builder's Patron (Pay the reputation cost. Build garrison with "-6 build" before using the extra build as specified below.)
+   1. The Contractor (Pay the gold price)
+   1. The Foreman (Pay the gold price)
+   1. The Tinker (Pay the gold price)
+   1. The Treasure Hunter (Pay the gold price)
+* **Secondary Advisor Watchlist** (if none of the above are available... 70% chance of finding primary or secondary advisor on the winter flop)
+   1. The Advanced Scout
+   1. The Bloodthirsty Scoundrel (Pay the gold price)
+   1. The Grizzled Veteran
+   1. The Patriot
+   1. The Pirate
 * Build Guild Hall in Taxachusetts -2g - wood
 * Upgrade Adamantium with Nefarious -10g
 * **9 gold, 4 glory**
 
+### Phase II, v1
+
 #### Turn 2
-* Guild Hall to find advisor (3 coins has ~90% chance of finding 1 of 7 desirable advisors).
-  * If you find the Treasure Hunter, hire them and repeat Turn 2.
+* Guild Hall to find advisor
+* **Advisor Watchlist** (3 coins has ~95% chance of finding 1 of 7 desirable advisors)
+   1. The Advanced Scout
+   1. The Bloodthirsty Scoundrel (Pay the gold price)
+   1. The Bosun (Pay the gold price)
+   1. The Grizzled Veteran
+   1. The Patriot
+   1. The Pirate
+   1. The Treasure Hunter
+      * Proceed to *Phase II, v2*.
 * Sail to Mike's port.
-* Raid Mike's Council Room and steal the cool advisor.
-  * Mike could potentially negate 7 dice from my raid pool (3 garrison, 2 of my permanent enmity, 2 from Mike's ships in port).
+* Raid Mike's Council Room and steal The Historian advisor.
+  * Mike could potentially negate 7 dice from my raid pool (3 garrison, 2 of my permanent enmity, 2 from Mike's ships being in his province).
   * I need to have at least 12 raid to consider this (79% chance of 3 successes from dice pool of 5).
     * base raid is 7 (5 Adamantium + 1 from support ship + 1 from Mike's enmity token)
     * without any raid advisor I could spend all my reputation (5) to boost Nefarious bonus to +5 raid.
@@ -54,29 +72,57 @@ There could be a potentially awesome combo with research cards by using The Bosu
     * Advanced Scout, The Grizzled Veteran
 * **9 gold, 5 glory**
 
-#### Turn 3
-* Search for The Bosun
-* Sail to Home Port
-* Research with Mike's advisor -2g
+### Phase II, v2
 
-#### Turn 4
-* Activate The Bosun
-* Sail
+#### Turn 2
+* Guild Hall to find advisor and The Treasure Hunter was found.
+* Research with the Treasure Hunter -2g.
+* Sail to Windy.
+
+#### Turn 3
+* Play *Turn 2 in Phase II, v1*
+
+### Intensive Research (Phase III)
+
+#### Turn 1
+* Guild Hall to find advisor
+* **Advisor Watchlist** (5 coins has 77% of finding 1 of 2 advisors)
+   1. The Bosun
+   1. The Treasure Hunter
+* Sail to Windy
+* Research with The Historian -2g
+
+#### Turn 2
+* Guild Hall to find advisor
+* **Advisor Watchlist** (5 coins has 77% of finding 1 of 2 advisors)
+   1. The Bosun
+   1. The Treasure Hunter
+* Sail to Candyland
+* Research with The Treasure Hunter -2g
+
+#### Turn 3
+* Activate The Bosun. Reactivate The Treasure Hunter or The Historian.
+* Raid Mine
 * Tax
 
-#### Turn 5
-* Sail
-* Research with Mike's advisor -2g
+#### Turn 4
+* Activate The Treasure Hunter of The Historian
+* Sail to Patmos
 
+### Phase IV
 
-### Intensive Research
-Acquire The Bosun and The Historian or The Treasure Hunter.
-#### Turn 5 of 1st year
-* Activate The Historian or The Treasure Hunter.
-* Research -2g
+#### Second Winter
+* activate Kites -6g
+* Take iron in Patmos to build garrison.
 
-
-
-
+#### Extra turns
+* **Advisor Watchlist**
+   1. The Cannoneer (sinking a boat and stealing relics)
+   1. The Master Thief (taxing other players)
+   1. The Politician (buying treasures and taxing)
+* Raid the tomb
+* Raid a ship
+* Tax and buy treasures
+* Search for maps
 
 ## Play-by-play
