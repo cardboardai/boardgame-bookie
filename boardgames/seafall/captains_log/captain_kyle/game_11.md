@@ -125,4 +125,31 @@ There is an awesome combo to collect research cards by using The Bosun along wit
 * Tax and buy treasures
 * Search for maps
 
+### Playing Nice
+
+#### Turn 1
+* Acquire the Treasure Hunter (reputation cost)
+* Build Guild Hall in Taxachusetts -2g - wood
+* Upgrade Adamantium with Nefarious (or something that helps research)
+
+#### Turn 2
+* Guild Hall to find the Bosun
+* Research with the Treasure Hunter
+* Sail to Kites
+
+#### Turn 3
+* Activate the Bosun and re-activate the Treasure Hunter
+* Sail towards the tomb (or somewhere left to explore)
+* Tax
+
+#### Turn 4
+* Activate the Treasure Hunter
+* Research
+* Explore if possible. If not sail to the tomb.
+
+#### Turn 5
+* Activate Randy
+* Raid the tomb
+
+
 ## Play-by-play
