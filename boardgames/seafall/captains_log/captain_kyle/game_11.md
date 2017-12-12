@@ -125,6 +125,11 @@ There is an awesome combo to collect research cards by using The Bosun along wit
 * Tax and buy treasures
 * Search for maps
 
+#### Two turn commerce
+1. Find an advisor with extra buying power. Pick a resource and split up ships to maximize the buying phase.
+1. Find the advisor that matches the resource. Sail both ships to the nearest market and sell.
+* How much gold should I collect to make spending 2 turns worthwhile? It boils down to the treasures you can buy with the gold, or the structures and upgrades you can build using the gold. I'll have to do the math, but I think buying and selling 4 goods is the sweet spot. I would avoid this strategy if these resources are not available.
+
 ### Playing Nice
 
 #### Turn 1

@@ -51,7 +51,7 @@ The keys to my game:
 
 * Upgrade Adamantium with Nefarious -10g
 * Sail to Kites
-* **14 gold, 4 glory**
+* **8 gold, 4 glory**
 
 #### Turn 2
 * **Advisor Watchlist**
@@ -64,13 +64,24 @@ The keys to my game:
   * We lose two dice to the garrison (6 - 2 = dice pool of 4).
   * If we fail to find a raid advisor, pump Nefarious with 7 reputation (4 + 7 = dice pool of 11. ~97% chance of success).
 
-* **9 gold, 10 glory**
+* **8 gold, 10 glory**
 
 #### Turn 3
-* Sail to
+* Build Guild Hall in Taxachusetts
 
 #### Turn 4
-* 
+* Sail to Candyland
+* Raid a Mine
 
+#### Turn 5
+* Sail Adamantium to Crappy and Amazon Prime Now to the Eastern Most Atoll.
+
+#### Turn 6
+* Research with the Treasure Hunter
+* Explore the iron market with the charts
+
+#### Turn 7
+* Research with the Treasure Hunter
+* Explore the atoll with the charts
 
 ## Play-by-play
