@@ -39,7 +39,7 @@ If you're interested in more of what I learned while developing SeaFall, please 
 *Written by JR Honeycutt*  
 *JR Honeycutt is a developer for SeaFall*
 
-# Five Things I Leanred While Developing SeaFall
+# Five Things I Learned While Developing SeaFall
 *by JR Honeycutt*
 *July 8, 2016*
 
