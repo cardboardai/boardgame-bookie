@@ -20,13 +20,13 @@ The keys to my game:
 * I am 21 points behind the leader, so I get 5 bonuses.
    * Add 2 reputation bonuses and 3 gold bonuses
 * Starting gold is 12g (home province) + 3g (rubble) + 9g (title bonus)
-* Activate Taxachusetts and Kites for -12g
-* Collect wood (taxa), 3g (kites) and 3g (rubble)
+* Activate Kites for -6g
+* iron from (kites) and 3g (rubble)
 * Place relic on Amazon Prime Now.
-* **18 gold, 3 glory**
+* **21 gold, 3 glory**
 
 #### Turn 1
-
+* Pay the gold price for an advisor.
 * **Advisor Watchlist** (67% chance of appearing on the winter flop)
    1. The Arsonist
    1. The Advanced Scout
@@ -51,7 +51,7 @@ The keys to my game:
 
 * Upgrade Adamantium with Nefarious -10g
 * Sail to Kites
-* **8 gold, 4 glory**
+* **11 gold, 4 glory**
 
 #### Turn 2
 * **Advisor Watchlist**
@@ -62,19 +62,30 @@ The keys to my game:
      * If we are willing to exhaust the Nefarious upgrade then the threshold is 7 successes.
   * Adamantium has base raid of 5. Amazon will add support of 1 (dice pool of 6).
   * We lose two dice to the garrison (6 - 2 = dice pool of 4).
-  * If we fail to find a raid advisor, pump Nefarious with 7 reputation (4 + 7 = dice pool of 11. ~97% chance of success).
+  * If we fail to find a raid advisor, pump Nefarious with 7 reputation (4 + 7 = dice pool of 11. ~71% chance of success).
+     * Rolling with anything less than a dice pool of 11 is unadvised. Rolling with 13 would be the sweet-spot in terms of diminishing returns on success.
+     * dice pool of 10 is ~58% chance of success
+     * dice pool of 11 is ~71% chance of success
+     * dice pool of 12 is ~81% chance of success
+     * **dice pool of 13 is ~89% chance of success**
+     * dice pool of 14 is ~93% chance of success
 
-* **8 gold, 10 glory**
+* **11 gold, 10 glory**
 
 #### Turn 3
-* Build Guild Hall in Taxachusetts
+* Sail to Japan.
+* Raid the spice dock.
+* **11 gold, 12 glory**
 
 #### Turn 4
-* Sail to Candyland
-* Raid a Mine
+* Sail to Hangry
+* Raid the wood dock.
+* **11 gold, 14 glory**
 
 #### Turn 5
 * Sail Adamantium to Crappy and Amazon Prime Now to the Eastern Most Atoll.
+* Build with iron in Kites.
+**9 gold, 15 glory**
 
 #### Turn 6
 * Research with the Treasure Hunter
@@ -83,5 +94,6 @@ The keys to my game:
 #### Turn 7
 * Research with the Treasure Hunter
 * Explore the atoll with the charts
+* ****
 
 ## Play-by-play
