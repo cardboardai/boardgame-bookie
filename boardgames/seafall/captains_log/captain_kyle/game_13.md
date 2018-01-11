@@ -3,7 +3,7 @@
 
 The keys to my game:
 
-1. Conquer the colony at Arados. Can I get there fast enough? Will I be strong enough?
+1. Conquer the colony at Arados.
 
 1. Back to the tombs. There is still more glory within.
 
@@ -56,7 +56,23 @@ The keys to my game:
 * **11 gold, 4 glory**
 
 #### Turn 2
-*
+* **Advisor Watchlist**
+   1. If a desired advisor was not acquired in turn 1, there is a 90% chance a primary advisor will appear in turn 2 (assuming everyone claims an advisor in turn 1 and no one else is looking for a raid advisor).
+* Sail to Arados
+* Raid the temple. The temple is a site at the colony, so we raid against the colony defenses, a garrison of 2 and a red defense of 10.
+  * Success is guaranteed even if we receive 2 damage, so 8 successes is the threshold to clear.
+     * If we are willing to exhaust the Nefarious upgrade then the threshold is 7 successes.
+  * Adamantium has base raid of 5. Amazon will add support of 1 (dice pool of 6).
+  * We lose two dice to the garrison (6 - 2 = dice pool of 4).
+  * If we fail to find a raid advisor, pump Nefarious with 7 reputation (4 + 7 = dice pool of 11. ~71% chance of success).
+     * Rolling with anything less than a dice pool of 11 is unadvised. Rolling with 13 would be the sweet-spot in terms of diminishing returns on success.
+     * dice pool of 10 is ~58% chance of success
+     * dice pool of 11 is ~71% chance of success
+     * dice pool of 12 is ~81% chance of success
+     * **dice pool of 13 is ~89% chance of success**
+     * dice pool of 14 is ~93% chance of success
+
+* **11 gold, 10 glory**
 
 #### Turn 3
 *
