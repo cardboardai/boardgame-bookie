@@ -23,7 +23,7 @@ The keys to my game:
 * Activate Kites for -6g
 * iron from (kites) and 3g (rubble)
 * Place relic on Amazon Prime Now.
-* **21 gold, 3 glory**
+* **21 gold, 2 glory**
 
 #### Turn 1
 * Pay the gold price for an advisor, unless the advisor has a raid bonus of 2 more than the reputation cost.
@@ -51,7 +51,7 @@ The keys to my game:
 
 * Upgrade Adamantium with Nefarious -10g
 * Sail to Kites
-* **11 gold, 4 glory**
+* **11 gold, 3 glory**
 
 #### Turn 2
 * **Advisor Watchlist**
@@ -70,7 +70,7 @@ The keys to my game:
      * **dice pool of 13 is ~89% chance of success**
      * dice pool of 14 is ~93% chance of success
 
-* **11 gold, 10 glory**
+* **11 gold, 9 glory**
 
 #### Turn 3
 * Sail to Japan.
@@ -115,7 +115,7 @@ This game was by far my best game. I won by a significant margin and managed to 
 This game was a thrill from start to finish. Discussion around the table centered around sacking the Temple in Arados, but no one was going to reach it before I did. My gambit with the Nefarious upgrade paid off since I was not able to procure a raid advisor by my second turn. I spent all 7 of my reputation and rolled 11 dice against a 10 defense. Luckily, I had 9 successes (23.4% chance of 9 or more with a pool of 11. My luck would change when I later raided the dock in Japan. I rolled a 4 against 4 and ended up with 0, a 20% chance. I had to use my two fortune.). It felt great to grab a 5 glory milestone. It felt even better when I received 20 gold for my trouble after sacking a building worth 40! I did not realize this would happen when I made my plans.
 
 With my bounty I was able to buy an expensive Arados advisor that allowed my to steal an advisor. Naturally I targeted Mike and stole Bob Villa, who is one of the most powerful advisors in the game. Funny enough, I had left my game 11 plans after the last game and they fell into Mike's hands. Mike, Dave, and Scott read them and, to my chagrin, Mike stumbled across my stated objective to slow him down! Needless to say after I stole his advisor the gloves came off. Mike raided me on his next turn and stole the advisor that steals other advisors! I lost a glory to boot. Then later in the game Mike got the Arados advisor that lets him steal a treasure and he stole one of the rare charts with the sword
-that led to a treasure. It was a brilliant play by Mike, because on the same turn he was able to discover that treasure and claim the Super Explorer ship upgrade. The advisors that steal treasure or other advisors are extremely powerful (and make people angry).
+that led to a treasure. It was a brilliant play by Mike, because on the same turn he was able to discover that treasure and claim the Super Explorer ship upgrade. The advisors that steal treasure or other advisors are extremely powerful (and make people angry). Mike stole so many things he was sacrificing glory to make ends meet, because he ran out of enmity using those same advisors and raiding my council room. He spent 4 glory to steal my map piece at the end of the game, though he did gain 3 back after exploring the map.
 
 Fortunately, despite the war between Mike and I, I was still able to chase down the treasures I had from my maps. The rewards were amazing! I got the fabulous Super Raid ship upgrade on Adamantium and the Super Hold upgrade on Amazon Prime Now. I was able to do this and collect 6 more research cards for my trouble. Unfortunately, none of the 6 research cards were very interesting. Since every location on every island has been explored, I'm not sure when the land explore bonus charts will come in handy again.
 
