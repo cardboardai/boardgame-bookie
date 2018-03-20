@@ -1,0 +1,5 @@
+May was the second strong game in a row, and we may now have enough steam to carry us through the next few games. A key to our victory was convenient Produce Supply card draws. We produced supplies in Washington that gave us 7 that could be redistributed using the Radio Operator power. We managed to connect 5 cities. We discovered 1 of the 4 laboratories that are researching a cure, the Jade Lab, and the abilities they provide are amazing.
+
+We also reconed Europe, which again opened a box. Again a potentially game changing ability was granted to us. We rediscovered flight! Now we'll be able to hop between permanent supply centers and havens no problem, greatly expanding our reach. Most cities are just 1 step away from a Haven or supply center. We invested in permanent supply centers early on and this we
+
+If we want to connect all the cities on the grid we need to average more than 3 new cities a turn. Today we beat our quota.
