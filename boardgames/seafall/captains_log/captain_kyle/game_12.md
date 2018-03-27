@@ -125,6 +125,8 @@ I agonized over my victory province upgrade, but Joe helped me make my decision.
 
 As an aside, there was an interesting race to build the Temple structure that got refreshed after the second winter. Joe had been playing possum collecting coin and actively avoiding glory in order to become first player on the first turn after the second winter, so that he would have the first crack at building The Temple. Unfortunately, a bit of a shame, Dave caught on the Joe's strategy, because the same idea occurred to him. Dave almost realized this too late, except, when it dawned on him he would lose his turn order, he realized that he had accidentally taken a glory for interrogating an advisor that had already been interrogated. This led to a very awkward situation where Dave benefited from an earlier mistake; he ultimately did build The Temple before Joe. Joe was a good sport about it, but he did express his frustration to me. He absolutely would have been able to adjust his strategy had Dave counted his glory correctly in the first place. Alas, clerical errors are just part of board gaming to some degree.
 
+One final note. After reading more about raiding the temple at Tortosa, I may have interpreted the rules incorrectly. The consensus seems to be that 10 successes are needed to raid the temple, because this is the value printed on the structure token. For whatever reason our game group went along with the idea that the colony merely needed to be raided, so I may have gotten away with one.
+
 ## Clues to the puzzle
 We know the following from this game and the last:
 
