@@ -1,4 +1,20 @@
 # Game 13
+## Clues to the puzzle before Game 13
+
+### Three words (the names and order of tablets)
+* Worn, Ancient, Cryptic
+* Inscribed, Eroded, Sacred
+* Worn, Fractured, Eroded
+
+### Where to shine the light
+* On the front and back of advisors.
+* On tablets
+* On the tomb map
+
+### Other advice
+* Do not venture West without reading what the ancients had to say.
+* We should gather our leaders in the temple, but bad things might happen.
+
 ## Playbook
 
 The keys to my game:
