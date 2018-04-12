@@ -1,0 +1,2 @@
+# Uncharted Waters
+If you end a sail action in an empty sea space west of the first four columns *(as marked by the tear in the ocean)*, draw the top uncharted waters card. If your ships end in different empty sea spaces, choose only one and draw a card for that ship. *(In the rare event there is only one space left in a column without an island do not draw a card. This space will be an island, once a player succeeds in an explore endeavor to find it.)*

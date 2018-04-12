@@ -1,0 +1,3 @@
+If you succeed in the raid, you may apply 1 damage to the defending flagship or plunder 1 item from the defending flagship's hold for each success rolled. Place one enmity token in the defending player's *At War With* section for each damage given or plunder taken, unless the raid was in a region you control, in which case place exactly one enmity token.
+
+*Red rolls four dice and has three successes vs. a defense of two so takes no damage in the raid. The defending ship is carrying iron, which red takes by using one success. With two successes left, red assigns those as damage. Green draws two damage cards. Normally red would owe three enmity for the raid (one for each success applied) but, since this is in red's home harbor, only one is given.*

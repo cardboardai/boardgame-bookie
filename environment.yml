@@ -17,6 +17,7 @@ dependencies:
   - scipy
   - seaborn
   - sqlalchemy
+  - sympy
   - xlrd
   - pip:
     - dash

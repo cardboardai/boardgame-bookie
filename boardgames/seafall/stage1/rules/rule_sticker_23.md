@@ -1,0 +1,2 @@
+# The Fall of the Society
+The Society will fall when its temple and colony are raided, in that order. First the temple must be successfully raided *(it goes to the structures pool, exhausted, and may be built by provinces thereafter)*. If the temple is raided in one game but the colony is not conquered, do not put the temple on the colony in the next game. The colony may only be conquered after its temple is raided.
