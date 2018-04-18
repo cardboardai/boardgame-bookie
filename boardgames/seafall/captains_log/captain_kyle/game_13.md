@@ -107,10 +107,11 @@ The keys to my game:
 * If there is a colony at Macy's then...
   * Research
     * With Keeper of Lore or The Treasure Hunter
+    * Sail to Prussia
   * Raid
     * Try to find The Politician (spending up to 6 coin is cost neutral)
     * Raid 8 mine
-      * This will cost 2 enmity since I would own the colony on this island. Make sure you have enough enmity for the big showdown with Mike. Look for an advisor that reduces enmity (aka The Pirate), or forgo the raid if enmity is limited.
+      * Make sure you have enough enmity for the big showdown with Mike. Look for an advisor that reduces enmity (aka The Pirate), or forgo the raid if enmity is limited.
     * Tax (+3g base, +6g advisor, +4g colony = 13g)
     * Buy treasure with The Politician power (check coin math).
 * **? gold, ? glory**
@@ -125,7 +126,7 @@ The keys to my game:
   * Destroy his tablet structure. Ideally, the game will end on this turn.
 * **? gold, ? glory**
 
-### If it is clear the game will end
+### If it is clear the game will end early
 
 #### Turn 6
 * Find the Navigator with the Guild Hall
