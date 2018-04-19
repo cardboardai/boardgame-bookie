@@ -9,10 +9,10 @@ The keys to my game:
 1. Operation Indiana Jones
 
 ### SeaFall Master Plan
-* I need 2 high impact raid advisors
+* ^Chart to the last island.
 * **Advisor Watchlist** (67% chance of appearing on the winter flop)
-  1. The Bloodthirsty Scoundrel (13g)
-  1. The Builder's Patron (7g, 2r)
+  1. ^The Bloodthirsty Scoundrel (13g)
+  1. ^The Builder's Patron (7g, 2r)
   1. The Gatherer of Brethren (7g)
   1. The Walker of Paths (7g)
 * **Secondary Advisor Watchlist** (if none of the above are available... >73% chance of finding primary or secondary advisor on the winter flop)
