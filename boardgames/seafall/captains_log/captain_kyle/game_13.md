@@ -5,7 +5,7 @@
 * Worn, Ancient, Cryptic
 * Inscribed, Eroded, Sacred
 * Worn, Fractured, Eroded
-* Worn, Antique, Sacred
+* Worn, Antique, Sacred (Builder's Patron)
 
 ### Where to shine the light
 * On the front and back of advisors.
