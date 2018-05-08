@@ -17,7 +17,9 @@ Given the state of the game, the turn order of players, and the last turn made b
 The number of possibilities is greatly expanded by the option to acquire and play an advisor on any given turn. When a dice pool is being resolved, the option to use fortune tokens, exhaust upgrades, and take damage will be resolved by having that player "take another turn" by iterating the MTCS search again.
 
 ## Pruning the leaves of an MTCS search tree
-It will be interesting to see how many TitanXp GPU hours it will take to train the network and explore all possible moves. However, should the length of training be too long, it may be helpful to eliminate possible moves by labeling a subset as "ineffective". This would require imposing a human bias on the outcome, but is a means to reduce the possibility space if necessary. For example, an ineffective move might be choosing the Soldier's Guild and sailing only, not attempting a raid endeavor, nor taxing.
+It will be interesting to see how many TitanXp GPU hours it will take to train the network and explore all possible moves. Perhaps it would take 1000 years to train! Should the length of training be too long, it may be helpful to eliminate possible moves by labeling a subset as "ineffective". This would require imposing a human bias on the outcome, but is a means to reduce the possibility space if necessary. For example, an ineffective move might be choosing the Soldier's Guild and sailing only, not attempting a raid endeavor, nor taxing.
+
+Another approach to reduce training time would be to focus on a smaller portion of the game, such as the prologue. Training an AI to solve a "toy" version of a game, i.e. smaller board and fewer components, or a specific scenario in a game could still prove to be informative to the larger design.
 
 # Answering rules questions
 ## Answering if a move is valid
@@ -31,6 +33,12 @@ Looking at the possible moves from a given before-state could be informative for
 
 # Sailing into the unknown
 Here are some questions I'd like to answer:
+1. What is the average length of a game? Given a desired game length, how can glory and coin costs be adjusted to reach that game length?
+
+    A common critique of SeaFall is that the game seems like it was designed to last 2 rounds, i.e. 2 full years and sometimes past 3 winters. However, game length as reported on the forum tend to average a little over 1 round, about 7-9 turns. This game is unsatisfying for 2 primary reasons: 1) Reaching winter is fun! An influx of coin and a refreshed advisor pool opens up many possible moves and feels like the investment of time into that game starts paying off. Fewer winters means less fun. 2) The end of the game comes suddenly, because of large glory payouts that push someone past the glory threshold for that game. The suddenness often does not allow a player to react at all if they've already taken their turn, and even if you get to take a turn after knowing the game will end, often there aren't great options available, especially during the colony phase of the game where it takes several turns to found a colony.
+
+    Becq and others on the forum have suggested reducing glory for milestones and tomb endeavors. They've also suggested reducing the turns in a round to increase the frequency of winters. To answer the second question, after the AI strategies have been established, another network could optimize the glory and coin cost values with a cost function that optimizes an ideal length of gameplay.
+
 1. How are ships being upgraded after each game?
 
     I've seen someone in the forums suggest the optimal strategy of upgrading ships to be keeping the two ships together and upgrading the *big* ship only, keeping the small ship only as a support ship. What will the neural network decide?
@@ -42,6 +50,10 @@ Here are some questions I'd like to answer:
 1. What happens to the winning strategies if there is no enmity?
 
     The enmity rules are innovative. Some players love enmity and others not so much. What happens if we train our network to play SeaFall with the rules of enmity removed? Does the game become unbalanced? This question will demonstrate how rules changes can be explored through machine learning. If the rate of learning is fast enough, I can image trying a rules change
+
+1. Is there a "hard mode" or "SeaFall+" mode that is more challenging?
+
+    What happens to strategies if we crank up the difficulty for endeavors? Do the same strategies still work? Does the merchant and builder become more essential?
 
 # Playtesting with machines
 Human playtesting will never be replaced, because how a human feels and responds to playing the game is the whole reason behind designing a game. In other words, the game has to be fun, and the ultimate test is having people play the game and getting their feedback. However, no one likes playing an unfinished game. Machine learning may help bridge the gap between designing the game and getting meaningful playtesting done with a refined version of the game.
