@@ -8,6 +8,9 @@ Towards these ends, the game engine will encode the rules of SeaFall, store the 
 # Encoding the rules of SeaFall
 A defining quality of legacy boardgames is that the rules and components will change over the course of a campaign. A campaign is a series of games played by the same group of players until an ultimate winner is decided. The SeaFall campaign progresses as players reach milestones. When encoding the rules of SeaFall the program should recognize, which milestones have been reached and therefore which rules are currently being applied to the game.
 
+## Randomizing secret society membership
+In SeaFall, a secret society is revealed and the search for society members among the advisors becomes an important game mechanic, espeically those with knowledge of the island at the end of the world. However, in the published version of the game the society members are the same in every copy of the game. An AI will these identities through repeated play, but we do not want strategies that take advantage of this knowledge from simulated campaign to simulated campaign. Therefore, the society member identities, and those advisors with chart symbols, will be randomly assigned before each simulation, except for advisors with public membership.
+
 # Storing the state of the game
 The state of the game will record the location of islands and players' ships on the hex grid that defines the world of SeaFall. Furthermore, the state of the game records all components relevant to players including province stats, structures, ship upgrades, currency, etc.
 
