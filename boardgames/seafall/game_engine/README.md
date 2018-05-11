@@ -58,5 +58,9 @@ Here are some questions I'd like to answer:
 
     What happens to strategies if we crank up the difficulty for endeavors? Do the same strategies still work? Does the merchant and builder become more essential?
 
+1. Who is on the advisor most wanted list?
+
+    For any dominant strategy, when a province is raided to take an advisor, who are those advisors? What is the length of this list? Can a threshold of value be determined? Which of the retired advisor upgrades appear most often?
+
 # Playtesting with machines
 Human playtesting will never be replaced, because how a human feels and responds to playing the game is the whole reason behind designing a game. In other words, the game has to be fun, and the ultimate test is having people play the game and getting their feedback. However, no one likes playing an unfinished game. Machine learning may help bridge the gap between designing the game and getting meaningful playtesting done with a refined version of the game.
