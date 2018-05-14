@@ -44,7 +44,7 @@ Here are some questions I'd like to answer:
 
 1. How are ships being upgraded after each game?
 
-    I've seen someone in the forums suggest the optimal strategy of upgrading ships to be keeping the two ships together and upgrading the *big* ship only, keeping the small ship only as a support ship. What will the neural network decide?
+    I've seen someone in the forums suggest the optimal strategy of upgrading ships to be keeping the two ships together and upgrading the *big* ship only, keeping the small ship only as a support ship. What will the neural network decide? If the permanent support ship idea is indeed dominant, would it be more fun to have incentives to diversify your ship? For example, any upgrade could come at a cost making it impossible to have an uber-ship, e.g. upgrading raid could come at the cost of reducing exploration. Another example of power balance could be adding a coin activation cost to endeavors with a ship, i.e. the number of upgrades given to a ship increases the cost to use it; thematically this could be explained by having a larger more expensive crew, or a larger upkeep cost to maintain the skill of the ship.
 
 1. Which guild is the most powerful? When is each guild its most powerful?
 
@@ -61,6 +61,10 @@ Here are some questions I'd like to answer:
 1. Who is on the advisor most wanted list?
 
     For any dominant strategy, when a province is raided to take an advisor, who are those advisors? What is the length of this list? Can a threshold of value be determined? Which of the retired advisor upgrades appear most often?
+
+1. Where are the islands placed?
+
+    I get the sense that the placement of island stickers is on average in the center of each row. What is the distribution of island placement revealed through simulation? Is it more fun to have islands with a greater distribution across the board?
 
 # Playtesting with machines
 Human playtesting will never be replaced, because how a human feels and responds to playing the game is the whole reason behind designing a game. In other words, the game has to be fun, and the ultimate test is having people play the game and getting their feedback. However, no one likes playing an unfinished game. Machine learning may help bridge the gap between designing the game and getting meaningful playtesting done with a refined version of the game.
