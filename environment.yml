@@ -7,15 +7,19 @@ channels:
   - anaconda
 dependencies:
   - click
+  - cython
   - jupyter
   - matplotlib
   - pandas
   - pip
   - pytables
   - python=3
+  - networkx
   - numpy
   - scipy
   - seaborn
+  - scikit-image
+  - scikit-learn
   - sqlalchemy
   - sympy
   - xlrd
@@ -24,5 +28,6 @@ dependencies:
     - dash-renderer
     - dash-html-components
     - dash-core-components
+    - msgpack
     - plotly
     - trueskill
