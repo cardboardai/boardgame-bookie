@@ -79,17 +79,22 @@ class Board():
         self.hexgrid_keys = self.hexgrid_keys + \
         [tuple(i) for i in zip(14*numpy.ones(9, dtype=numpy.int), numpy.arange(-7,2), numpy.arange(7,16))]
 
-class SeaFallPlayerHuman:
-    def __init__(self, game):
-        self.game = game
+    def get_valid_moves(self):
+        
+        return self.valid_moves
 
-    def play(self, board):
-        a = np.random.randint(self.game.getActionSize())
+    def sail(self, player, ship, destination):
 
-        valids = self.game.getValidMoves(board, 1)
+        return True
 
-        while True:
-            move = int(input())
-            if valid_moves[move]: break
-            else: print('Invalid move')
-        return move
+class Ship():
+    def __init__(self, player):
+        self.explore = 1
+        self.explore_max = 5
+        self.hold = 1
+        self.hold_max = 5
+        self.raid = 1
+        self.raid_max = 5
+        self.sail = 1
+        self.sail_max = 5
+        
