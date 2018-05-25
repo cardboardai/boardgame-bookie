@@ -97,4 +97,12 @@ class Ship():
         self.raid_max = 5
         self.sail = 1
         self.sail_max = 5
-        
+
+class Province():
+    def __init__(self, player):
+        self.field_0 = 4
+        self.field_1 = 4
+
+class Colony():
+
+class Island():
