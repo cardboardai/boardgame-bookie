@@ -88,7 +88,16 @@ class Board():
         return True
 
 class Ship():
-    def __init__(self, player):
+    def __init__(self, values=ShipValues(), upgrade_list=[], hold_list=[]):
+        # values
+        self.values = values
+        # upgrades, a list of upgrade objects of max length 2
+        self.upgrade_list = upgrade_list
+        # hold, a list of objects with max length hold
+        self.hold_list = hold_list
+
+class ShipValues():
+    def __init__(self):
         self.explore = 1
         self.explore_max = 5
         self.hold = 1
@@ -97,6 +106,7 @@ class Ship():
         self.raid_max = 5
         self.sail = 1
         self.sail_max = 5
+
 
 class Province():
     def __init__(self, player):
