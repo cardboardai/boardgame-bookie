@@ -37,14 +37,15 @@ class Ship():
         # upgrades, a list of upgrade objects of max length 2
         self.upgrades = []
         # values (explore, hold, raid, sail)
+        self.vmax = (5, 5, 5, 5)
         self.values = (1, 1, 1, 1)
         # vmax is the maximum number values can reach for (explore, hold, raid,
         # sail)
-        self.vmax = (5, 5, 5, 5)
+
 
     @property
     def values(self):
-        return self.values
+        return self._values
     
     @values.setter
     def values(self, values):
@@ -61,7 +62,7 @@ class Ship():
             if val > vmax:
                 raise ValueError("A ship value exceeds its max.")
 
-        self.values = values
+        self._values = values
 
 
 class ProvinceBoard():
