@@ -37,11 +37,10 @@ class Ship():
         # upgrades, a list of upgrade objects of max length 2
         self.upgrades = []
         # values (explore, hold, raid, sail)
-        self.vmax = (5, 5, 5, 5)
-        self.values = (1, 1, 1, 1)
+        self._values = (1, 1, 1, 1)
         # vmax is the maximum number values can reach for (explore, hold, raid,
         # sail)
-
+        self._vmax = (5, 5, 5, 5)
 
     @property
     def values(self):
@@ -63,6 +62,27 @@ class Ship():
                 raise ValueError("A ship value exceeds its max.")
 
         self._values = values
+
+    @property
+    def vmax(self):
+        return self._vmax
+    
+    @vmax.setter
+    def vmax(self, vmax_tuple):
+        if not isinstance(vmax_tuple, tuple):
+            err_str = ("Not a valid data type. The data type should be a tuple"
+                       " of 4 length.")
+            raise ValueError(err_str)
+        elif len(vmax_tuple) != 4:
+            err_str = ("Not a valid data type. The data type should be a tuple"
+                       " of 4 length.")
+            raise ValueError(err_str)
+
+        for val, vmax in zip((5, 5, 5, 5), vmax_tuple):
+            if val > vmax:
+                raise ValueError("The maximum ship values are never less than (5, 5, 5, 5).")
+
+        self._vmax = vmax
 
 
 class ProvinceBoard():
