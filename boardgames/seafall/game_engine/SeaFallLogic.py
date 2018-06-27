@@ -3,6 +3,10 @@ import pandas as pd
 
 PATH_MAP_ADJACENCY_INIT = "map_adjacency_init.xlsx"
 
+PATH_RECLICS = "relics.xlsx"
+
+PATH_TABLETS = "tablets.xlsx"
+
 class Board():
     def __init__(self, game):
         """
@@ -10,11 +14,25 @@ class Board():
         board stored in hexgrid_keys.
         """
         try:
-            df = pd.read_excel(PATH_MAP_ADJACENCY_INIT)
+            df_map_adjacency = pd.read_excel(PATH_MAP_ADJACENCY_INIT)
 
         except Exception as e:
             print("Error {}".format(e))
             print("Cannot open *{}*!".format(PATH_MAP_ADJACENCY_INIT))
+
+        try:
+            df_relics = pd.read_excel(PATH_RELICS)
+
+        except Exception as e:
+            print("Error {}".format(e))
+            print("Cannot open *{}*!".format(PATH_RELICS))
+
+        try:
+            df_tablets = pd.read_excel(PATH_TABLETS)
+
+        except Exception as e:
+            print("Error {}".format(e))
+            print("Cannot open *{}*!".format(PATH_TABLETS))
 
         self.map = nx.from_pandas.adjacency(df, create_using=nx.DiGraph())
 
@@ -108,31 +126,68 @@ class ProvinceBoard():
 
 
 class Province():
+    def __init__(self):
+        pass
 
 
-class Colony():
+class Colony(Region):
+    def __init__(self):
+        pass
 
-class Island():
+
+class Island(Region):
+    def __init__(self):
+        self.name = None
+        self.garrison
+        
 
 class Upgrade():
     def __init__(self):
+        pass
 
 
 class Relic():
+    def __init__(self):
+        pass
 
 class Tablet():
+    def __init__(self):
+        pass
 
 class Goods():
+    valid_goods = {
+        "iron",
+        "linen",
+        "spice",
+        "wood"
+        }
+    def __init__(self):
+        pass
 
 class DicePool():
+    def __init__(self):
+        pass
+
 
 class Dice():
+    def __init__(self):
+        pass
+
 
 class Advisor():
+    def __init__(self):
+        pass
+
 
 class SideBoard():
+    def __init__(self):
+        pass
+
 
 class Structure():
+    def __init__(self):
+        pass
+
 
 class Leader():
     # Rules, pg 6, "Leader Cards"
@@ -161,10 +216,71 @@ class Leader():
 
 
 class Site():
+    def __init__(self, dangerous=False, defense=0, explored=False):
+        # Rules, pg 10, "Dangerous Sites"
+        self.dangerous = dangerous
+        # Rules, pg 10, "Starting an Endeavor"
+        # Rules, pg 7, "Defense"
+        self.defense = defense
+        self.explored = explored
+
+
+class Region():
     def __init__(self):
+        # Rules, pg 7, "Garrison"
+        self.garrison = 0
+        pass
+
+
+class HomeHarbor(Region):
+    def __init__(self):
+        pass
+
 
 class UpgradeSheet():
     def __init__(self):
+        pass
+
 
 class Enmity():
     def __init__(self):
+        pass
+
+
+class IslandSiteGood(Site):
+    def __init__(self, dangerous=False, defense=0, good):
+        super().__init__(dangerous=dangerous, defense=defense)
+        self._good = "iron"
+
+        @property
+        def good(self):
+        return self._good
+    
+        @values.setter
+        def good(self, good):
+            if not isinstance(values, tuple):
+                err_str = ("Not a valid data type. The data type should be a tuple"
+                        " of 4 length.")
+                raise ValueError(err_str)
+            elif len(values) != 4:
+                err_str = ("Not a valid data type. The data type should be a tuple"
+                        " of 4 length.")
+                raise ValueError(err_str)
+            
+            for val, vmax in zip(values, self.vmax):
+                if val > vmax:
+                    raise ValueError("A ship value exceeds its max.")
+
+            self._good = good
+
+
+class IslandSiteMine(Site):
+    def __init__(self, dangerous=False, defense=0, gold=0):
+        super().__init__(dangerous=dangerous, defense=defense)
+        self.gold = gold
+
+class IslandSiteDocks(Site):
+
+class IslandSiteMarket(Site):
+
+class IslandSiteTomb
