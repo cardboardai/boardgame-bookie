@@ -8,6 +8,10 @@ PATH_RECLICS = "relics.xlsx"
 PATH_TABLETS = "tablets.xlsx"
 
 class Board():
+    # Rules, p 11, "Tokens and Enmity"
+    # There is no limit to the number of reputation and fortune tokens
+    # The enmity tokens are limited to 8 per player.
+
     def __init__(self, game):
         """
         This object contains a list of all the coordinates for the SeaFall game
@@ -155,12 +159,28 @@ class Tablet():
         pass
 
 class Goods():
+    # Rules, p 12, "Islands Produce"
+    # Goods are supply limited.
     valid_goods = {
         "iron",
         "linen",
         "spice",
         "wood"
         }
+    
+    goods_supply = [
+        "iron", "iron", "iron", "iron", "iron",
+        "iron", "iron", "iron", "iron", "iron",
+        "linen", "linen", "linen", "linen", "linen",
+        "linen", "linen", "linen", "linen", "linen",
+        "spice", "spice", "spice", "spice", "spice",
+        "spice", "spice", "spice", "spice", "spice",
+        "wood", "wood", "wood", "wood", "wood",
+        "wood", "wood", "wood", "wood", "wood"
+    ]
+
+    # Goods.goods_supply.remove("iron") to remove to first match of iron from the list of goods in the supply
+
     def __init__(self):
         pass
 
@@ -279,8 +299,17 @@ class IslandSiteMine(Site):
         super().__init__(dangerous=dangerous, defense=defense)
         self.gold = gold
 
+
 class IslandSiteDocks(Site):
+    def __init__(self):
+        pass
+
 
 class IslandSiteMarket(Site):
+    def __init__(self):
+        pass
 
-class IslandSiteTomb
+
+class IslandSiteTomb(Site):
+    def __init__(self):
+        pass
