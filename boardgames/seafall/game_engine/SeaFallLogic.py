@@ -243,6 +243,7 @@ class Site():
         # Rules, pg 7, "Defense"
         self.defense = defense
         self.explored = explored
+        self.enmity = 0
 
 
 class Region():
@@ -270,11 +271,11 @@ class Enmity():
 class IslandSiteGood(Site):
     def __init__(self, dangerous=False, defense=0, good):
         super().__init__(dangerous=dangerous, defense=defense)
-        self._good = "iron"
+        self._good = good
 
         @property
         def good(self):
-        return self._good
+            return self._good
     
         @values.setter
         def good(self, good):
