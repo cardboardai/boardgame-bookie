@@ -4,6 +4,7 @@
 name: bgb
 # in order of priority: lowest (top) to highest (bottom)
 channels:
+  - conda-forge
   - anaconda
 dependencies:
   - click
@@ -13,6 +14,7 @@ dependencies:
   - openpyxl
   - pandas
   - pip
+  - pyhamcrest
   - pytables
   - python=3
   - networkx

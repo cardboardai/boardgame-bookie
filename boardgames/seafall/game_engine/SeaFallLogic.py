@@ -42,7 +42,7 @@ class Board():
 
 
     def get_valid_moves(self):
-        
+
         return self.valid_moves
 
     def sail(self, player, ship, destination):
@@ -67,7 +67,7 @@ class Ship():
     @property
     def values(self):
         return self._values
-    
+
     @values.setter
     def values(self, values):
         if not isinstance(values, tuple):
@@ -78,7 +78,7 @@ class Ship():
             err_str = ("Not a valid data type. The data type should be a tuple"
                        " of 4 length.")
             raise ValueError(err_str)
-        
+
         for val, vmax in zip(values, self.vmax):
             if val > vmax:
                 raise ValueError("A ship value exceeds its max.")
@@ -88,7 +88,7 @@ class Ship():
     @property
     def vmax(self):
         return self._vmax
-    
+
     @vmax.setter
     def vmax(self, vmax_tuple):
         if not isinstance(vmax_tuple, tuple):
@@ -143,7 +143,7 @@ class Island(Region):
     def __init__(self):
         self.name = None
         self.garrison
-        
+
 
 class Upgrade():
     def __init__(self):
@@ -167,7 +167,7 @@ class Goods():
         "spice",
         "wood"
         }
-    
+
     goods_supply = [
         "iron", "iron", "iron", "iron", "iron",
         "iron", "iron", "iron", "iron", "iron",
@@ -276,7 +276,7 @@ class IslandSiteGood(Site):
         @property
         def good(self):
             return self._good
-    
+
         @values.setter
         def good(self, good):
             if not isinstance(values, tuple):
@@ -287,7 +287,7 @@ class IslandSiteGood(Site):
                 err_str = ("Not a valid data type. The data type should be a tuple"
                         " of 4 length.")
                 raise ValueError(err_str)
-            
+
             for val, vmax in zip(values, self.vmax):
                 if val > vmax:
                     raise ValueError("A ship value exceeds its max.")
