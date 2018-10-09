@@ -53,6 +53,7 @@ class Board():
 class Ship():
     # Rules, pg 8, "Province Boards" also inlcude information about ships
     def __init__(self):
+		# damage, a list of damage cards
         self.damage = []
         # hold, a list of objects with max length hold
         self.hold = []
@@ -63,6 +64,8 @@ class Ship():
         # vmax is the maximum number values can reach for (explore, hold, raid,
         # sail)
         self._vmax = (5, 5, 5, 5)
+		# the name of the ship
+		self.name = ''
 
     @property
     def values(self):
