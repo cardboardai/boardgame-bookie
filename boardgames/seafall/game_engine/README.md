@@ -68,3 +68,6 @@ Here are some questions I'd like to answer:
 
 # Playtesting with machines
 Human playtesting will never be replaced, because how a human feels and responds to playing the game is the whole reason behind designing a game. In other words, the game has to be fun, and the ultimate test is having people play the game and getting their feedback. However, no one likes playing an unfinished game. Machine learning may help bridge the gap between designing the game and getting meaningful playtesting done with a refined version of the game.
+
+# Design Notes
+1. Make the components first. All nouns, so to speak.
