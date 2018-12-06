@@ -7,6 +7,7 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
+  - bokeh
   - click
   - cython
   - jupyter
@@ -14,7 +15,6 @@ dependencies:
   - openpyxl
   - pandas
   - pip
-  - pyhamcrest
   - pytables
   - python=3
   - networkx
@@ -27,10 +27,4 @@ dependencies:
   - sympy
   - xlrd
   - pip:
-    - dash
-    - dash-renderer
-    - dash-html-components
-    - dash-core-components
-    - msgpack
-    - plotly
     - trueskill
