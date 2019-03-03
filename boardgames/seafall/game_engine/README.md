@@ -66,6 +66,10 @@ Here are some questions I'd like to answer:
 
     I get the sense that the placement of island stickers is on average in the center of each row. What is the distribution of island placement revealed through simulation? Is it more fun to have islands with a greater distribution across the board?
 
+1. Are there interesting treasure strategies?
+
+    Treasures on the surface appear to be a last resort for any supplies and goods that cannot be spent on other means. There are several disadvantages to treasure: they are dead-ends and serve no purpose other than to convert gold and supplies to glory (as opposed to a structure or upgrade that have additional abilities); they aren't useful in the early game, especially since buying treasure blocks the purchase of advisors; and large treasures are difficult, because of their high gold cost. How often are treasures purchased? When are they purchased?
+
 # Playtesting with machines
 Human playtesting will never be replaced, because how a human feels and responds to playing the game is the whole reason behind designing a game. In other words, the game has to be fun, and the ultimate test is having people play the game and getting their feedback. However, no one likes playing an unfinished game. Machine learning may help bridge the gap between designing the game and getting meaningful playtesting done with a refined version of the game.
 

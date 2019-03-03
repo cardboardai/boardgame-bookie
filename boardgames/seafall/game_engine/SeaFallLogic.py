@@ -16,6 +16,8 @@ class Board():
 		"""
 		This object contains a list of all the coordinates for the SeaFall game
 		board stored in hexgrid_keys.
+
+		locked_chest_state: ref page 2. Keeps track of what locked chests have been opened.
 		"""
 		try:
 			df_map_adjacency = pd.read_excel(PATH_MAP_ADJACENCY_INIT)
@@ -39,7 +41,7 @@ class Board():
 			print("Cannot open *{}*!".format(PATH_TABLETS))
 
 		self.map = nx.from_pandas.adjacency(df, create_using=nx.DiGraph())
-
+		self.locked_chest_state = 0
 
 	def get_valid_moves(self):
 
@@ -50,10 +52,24 @@ class Board():
 
 		return True
 
+class Curses():
+	def __init__(self):
+		self.curse_types = [
+		'',
+		''
+		]
+
+		self.curse_distribution = [1, 1]
+
+class DamageDeck():
+	def __init__(self):
+		self.stage
+
 
 class Ship():
 	# Rules, pg 8, "Province Boards" also inlcude information about ships
 	def __init__(self):
+		self.curses = []
 		# damage, a list of damage cards
 		self.damage = []
 		# hold, a list of objects with max length hold
@@ -67,7 +83,7 @@ class Ship():
 		self._vmax = (5, 5, 5, 5)
 		# the name of the ship
 		self.name = ''
-		
+
 	@property
 	def values(self):
 		return self._values
@@ -110,13 +126,14 @@ class Ship():
 
 		self._vmax = vmax
 
+
 class Region():
 	def __init__(self):
 		# Rules, pg 7, "Garrison"
 		self.garrison = 0
 		pass
-		
-				
+
+
 class ProvinceBoard():
 	# Rules, pg 8, "Province Boards"
 	def __init__(self):
@@ -156,7 +173,11 @@ class Island(Region):
 
 
 class Upgrade():
+'''
+locked_chest: ref page 2. This number
+'''
 	def __init__(self):
+		self.locked_chest = 0
 		pass
 
 
